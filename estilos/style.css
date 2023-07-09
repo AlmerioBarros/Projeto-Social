@@ -29,3 +29,12 @@ section#celular{
     background-size: contain;
     
 }
+iframe#tela{
+    position: absolute;
+    top: 64px;
+    left: 48px;
+
+    width: 215px;
+    height: 375px;
+
+}
