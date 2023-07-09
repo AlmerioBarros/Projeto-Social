@@ -38,3 +38,23 @@ iframe#tela{
     height: 375px;
 
 }
+section#botao{
+    text-align: right;
+}
+section#botao img {
+    width: 50px;
+
+    margin: 10px;
+
+    border-radius: 50%;
+
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.527);
+}
+section#botao img:hover{
+    border: 2px solid white;
+
+    box-sizing: border-box;
+
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.555) ;
+
+}
