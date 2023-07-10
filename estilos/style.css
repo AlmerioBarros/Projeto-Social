@@ -62,3 +62,26 @@ section#botao img:hover{
     transition: transform 0.2s;
 
 }
+section#referencia{
+    max-width: 500px;
+
+    margin: auto;
+
+    padding: 10px;
+
+    border-radius: 5px;
+
+    text-align: center;
+
+    color: white;
+    background-color: black;
+
+}
+section#referencia > a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+section#referencia > a:hover{
+    text-decoration: underline;
+}
